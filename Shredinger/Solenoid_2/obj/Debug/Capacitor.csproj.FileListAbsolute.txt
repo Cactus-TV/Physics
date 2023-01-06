@@ -1,0 +1,11 @@
+C:\Users\Artem\source\repos\Capacitor\Solenoid_2\obj\Debug\Capacitor.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\Capacitor\Solenoid_2\obj\Debug\Solenoid_2.Form1.resources
+C:\Users\Artem\source\repos\Capacitor\Solenoid_2\obj\Debug\Capacitor.Properties.Resources.resources
+C:\Users\Artem\source\repos\Capacitor\Solenoid_2\obj\Debug\Capacitor.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\Capacitor\Solenoid_2\obj\Debug\Capacitor.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\Capacitor\Solenoid_2\bin\Debug\Capacitor.exe
+C:\Users\Artem\source\repos\Capacitor\Solenoid_2\bin\Debug\Capacitor.pdb
+C:\Users\Artem\source\repos\Capacitor\Solenoid_2\obj\Debug\Capacitor.exe
+C:\Users\Artem\source\repos\Capacitor\Solenoid_2\obj\Debug\Capacitor.pdb
+C:\Users\Artem\source\repos\Capacitor\Solenoid_2\bin\Debug\Capacitor.exe.config
+C:\Users\Artem\source\repos\Capacitor\Solenoid_2\obj\Debug\Capacitor.csproj.SuggestedBindingRedirects.cache

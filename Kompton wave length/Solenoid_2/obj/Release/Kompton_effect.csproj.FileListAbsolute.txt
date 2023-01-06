@@ -1,0 +1,11 @@
+C:\Users\Artem\source\repos\Kompton wave length\Solenoid_2\bin\Release\Kompton_effect.exe.config
+C:\Users\Artem\source\repos\Kompton wave length\Solenoid_2\bin\Release\Kompton_effect.exe
+C:\Users\Artem\source\repos\Kompton wave length\Solenoid_2\bin\Release\Kompton_effect.pdb
+C:\Users\Artem\source\repos\Kompton wave length\Solenoid_2\obj\Release\Kompton_effect.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\Kompton wave length\Solenoid_2\obj\Release\Kompton_effect.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artem\source\repos\Kompton wave length\Solenoid_2\obj\Release\Kompton_effect.Form1.resources
+C:\Users\Artem\source\repos\Kompton wave length\Solenoid_2\obj\Release\Kompton_effect.Properties.Resources.resources
+C:\Users\Artem\source\repos\Kompton wave length\Solenoid_2\obj\Release\Kompton_effect.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\Kompton wave length\Solenoid_2\obj\Release\Kompton_effect.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\Kompton wave length\Solenoid_2\obj\Release\Kompton_effect.exe
+C:\Users\Artem\source\repos\Kompton wave length\Solenoid_2\obj\Release\Kompton_effect.pdb

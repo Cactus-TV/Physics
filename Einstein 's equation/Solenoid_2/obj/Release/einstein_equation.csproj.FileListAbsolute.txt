@@ -1,0 +1,11 @@
+C:\Users\Artem\source\repos\Einstein 's equation\Solenoid_2\bin\Release\einstein_equation.exe.config
+C:\Users\Artem\source\repos\Einstein 's equation\Solenoid_2\bin\Release\einstein_equation.exe
+C:\Users\Artem\source\repos\Einstein 's equation\Solenoid_2\bin\Release\einstein_equation.pdb
+C:\Users\Artem\source\repos\Einstein 's equation\Solenoid_2\obj\Release\einstein_equation.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\Einstein 's equation\Solenoid_2\obj\Release\einstein_equation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artem\source\repos\Einstein 's equation\Solenoid_2\obj\Release\einstein_equation.Form1.resources
+C:\Users\Artem\source\repos\Einstein 's equation\Solenoid_2\obj\Release\einstein_equation.Properties.Resources.resources
+C:\Users\Artem\source\repos\Einstein 's equation\Solenoid_2\obj\Release\einstein_equation.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\Einstein 's equation\Solenoid_2\obj\Release\einstein_equation.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\Einstein 's equation\Solenoid_2\obj\Release\einstein_equation.exe
+C:\Users\Artem\source\repos\Einstein 's equation\Solenoid_2\obj\Release\einstein_equation.pdb

@@ -1,0 +1,11 @@
+C:\Users\Artem\source\repos\Max energy\Solenoid_2\obj\Release\Energy.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\Max energy\Solenoid_2\obj\Release\Energy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artem\source\repos\Max energy\Solenoid_2\obj\Release\Energy.Form1.resources
+C:\Users\Artem\source\repos\Max energy\Solenoid_2\obj\Release\Energy.Properties.Resources.resources
+C:\Users\Artem\source\repos\Max energy\Solenoid_2\obj\Release\Energy.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\Max energy\Solenoid_2\obj\Release\Energy.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\Max energy\Solenoid_2\bin\Release\Energy.exe.config
+C:\Users\Artem\source\repos\Max energy\Solenoid_2\bin\Release\Energy.exe
+C:\Users\Artem\source\repos\Max energy\Solenoid_2\bin\Release\Energy.pdb
+C:\Users\Artem\source\repos\Max energy\Solenoid_2\obj\Release\Energy.exe
+C:\Users\Artem\source\repos\Max energy\Solenoid_2\obj\Release\Energy.pdb

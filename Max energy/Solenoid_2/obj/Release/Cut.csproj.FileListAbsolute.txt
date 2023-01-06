@@ -1,0 +1,11 @@
+C:\Users\Artem\source\repos\Atom concentration\Solenoid_2\obj\Release\Cut.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\Atom concentration\Solenoid_2\obj\Release\Cut.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artem\source\repos\Atom concentration\Solenoid_2\obj\Release\Cut.Properties.Resources.resources
+C:\Users\Artem\source\repos\Atom concentration\Solenoid_2\obj\Release\Cut.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\Atom concentration\Solenoid_2\obj\Release\Cut.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\Atom concentration\Solenoid_2\bin\Release\Cut.exe.config
+C:\Users\Artem\source\repos\Atom concentration\Solenoid_2\bin\Release\Cut.exe
+C:\Users\Artem\source\repos\Atom concentration\Solenoid_2\bin\Release\Cut.pdb
+C:\Users\Artem\source\repos\Atom concentration\Solenoid_2\obj\Release\Cut.Form1.resources
+C:\Users\Artem\source\repos\Atom concentration\Solenoid_2\obj\Release\Cut.exe
+C:\Users\Artem\source\repos\Atom concentration\Solenoid_2\obj\Release\Cut.pdb

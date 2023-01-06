@@ -1,0 +1,17 @@
+C:\Users\Artem\source\repos\Capacitor\Solenoid_2\obj\Release\Intensity.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\Capacitor\Solenoid_2\obj\Release\Intensity.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artem\source\repos\Capacitor\Solenoid_2\obj\Release\Solenoid_2.Form1.resources
+C:\Users\Artem\source\repos\Capacitor\Solenoid_2\obj\Release\Intensity.Properties.Resources.resources
+C:\Users\Artem\source\repos\Capacitor\Solenoid_2\obj\Release\Intensity.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\Capacitor\Solenoid_2\obj\Release\Intensity.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\Intensity\Solenoid_2\obj\Release\Intensity.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\Intensity\Solenoid_2\obj\Release\Intensity.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artem\source\repos\Intensity\Solenoid_2\obj\Release\Intensity.Form1.resources
+C:\Users\Artem\source\repos\Intensity\Solenoid_2\obj\Release\Intensity.Properties.Resources.resources
+C:\Users\Artem\source\repos\Intensity\Solenoid_2\obj\Release\Intensity.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\Intensity\Solenoid_2\obj\Release\Intensity.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\Intensity\Solenoid_2\bin\Release\Intensity.exe.config
+C:\Users\Artem\source\repos\Intensity\Solenoid_2\bin\Release\Intensity.exe
+C:\Users\Artem\source\repos\Intensity\Solenoid_2\bin\Release\Intensity.pdb
+C:\Users\Artem\source\repos\Intensity\Solenoid_2\obj\Release\Intensity.exe
+C:\Users\Artem\source\repos\Intensity\Solenoid_2\obj\Release\Intensity.pdb

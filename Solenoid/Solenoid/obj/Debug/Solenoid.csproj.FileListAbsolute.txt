@@ -1,0 +1,9 @@
+C:\Users\Artem\source\repos\Solenoid\Solenoid_2\bin\Debug\Solenoid.exe
+C:\Users\Artem\source\repos\Solenoid\Solenoid_2\bin\Debug\Solenoid.pdb
+C:\Users\Artem\source\repos\Solenoid\Solenoid_2\obj\Debug\Solenoid.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\Solenoid\Solenoid_2\obj\Debug\Solenoid_2.Form1.resources
+C:\Users\Artem\source\repos\Solenoid\Solenoid_2\obj\Debug\Solenoid.Properties.Resources.resources
+C:\Users\Artem\source\repos\Solenoid\Solenoid_2\obj\Debug\Solenoid.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\Solenoid\Solenoid_2\obj\Debug\Solenoid.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\Solenoid\Solenoid_2\obj\Debug\Solenoid.exe
+C:\Users\Artem\source\repos\Solenoid\Solenoid_2\obj\Debug\Solenoid.pdb
